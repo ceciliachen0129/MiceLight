@@ -2,8 +2,9 @@
 A python script that automatically detect the number of mice and calculates photo flux for IVIS Spectrum readout. Tested on data acquired by IVIS Spectrum 200.
 
 ## Requirements
-- Python > 3.7
-- Jupter Notebook 
+- Python (> 3.7)
+    https://www.anaconda.com/products/distribution
+- Jupter Notebook
 - pandas
 ```
 pip install pandas
