@@ -13,4 +13,4 @@ A python script that automatically detect the number of mice and calculates phot
 
 ## License
 
-The source code for the site is licensed under the MIT license in the MIT-LICENSE.txt file.
+The source code for the site is licensed under the MIT license in the LICENSE.txt file.
